@@ -14,4 +14,4 @@
 #
 # These files should be normalized to UTF-8 encoding
 *.json          encoding=UTF-8
-*.properties    encoding=UTF-8
+*.properties    encoding=UTF-
